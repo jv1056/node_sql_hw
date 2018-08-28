@@ -1,0 +1,24 @@
+{
+  "name": "node_sql_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jv1056/node_sql_hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jv1056/node_sql_hw/issues"
+  },
+  "homepage": "https://github.com/jv1056/node_sql_hw#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.3"
+  }
+}
